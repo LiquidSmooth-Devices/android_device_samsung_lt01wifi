@@ -18,8 +18,8 @@
         "branch": "cm-11.0"
     },
 	{
-        "remote": "lsd",
-        "repository": "android_device_samsung_lt013g",
+        "remote": "gh",
+        "repository": "LiquidSmooth-Devices/android_device_samsung_lt013g",
         "target_path": "device/samsung/lt013g",
         "revision": "kitkat"
     },
